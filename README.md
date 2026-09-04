@@ -1,5 +1,7 @@
 # 🦸 HeroWiki
 
+[![Tests](https://github.com/Aguero75/herowiki/actions/workflows/tests.yml/badge.svg)](https://github.com/Aguero75/herowiki/actions/workflows/tests.yml)
+
 **A free Hero Wiki search to get info on your favorite superheroes.**
 
 Search for any superhero and pull up their stats, powers, biography, and more — powered by a free superhero API.
